@@ -37,7 +37,9 @@ Annual emergency admissions increased from 5,336,043 in 2012-13 to 6,509,586 in 
 
 - `DataAnalysis.ipynb` - main notebook for data preparation and analysis
 - `total.ipynb` - additional analysis notebook
+- `extract_all_fields.ipynb` - batch extraction notebook that keeps all available primary diagnosis fields across ten years
 - `hospital_diagnosis_combined.xlsx` - combined processed dataset
+- `hospital_diagnosis_all_fields.xlsx` - expanded combined dataset with all available fields, total rows, age-group summaries, and sex summaries
 - `data/` - original annual NHS diagnosis workbooks
 - `workshop 1.twb` - Tableau workbook for visualisation
 
